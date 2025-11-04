@@ -44,3 +44,6 @@ The Power BI report includes the following insights:
 - Enabled **city-level performance tracking** for targeted marketing.  
 
 ---
+## 📸 Dashboard Preview
+ 
+![Dashboard Preview](Preview1.PNG)
